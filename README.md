@@ -11,3 +11,5 @@
 1. [webpack](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/webpack)
 2. [Import/Export](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/import-export)
 3. [ESM](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/ESM)
+
+Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KoensBerg/defender-game-babel.git"
+    "url": "git+https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-babel.git"
   },
   "keywords": [
     "game"
@@ -17,9 +17,9 @@
   "author": "KoensBerg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KoensBerg/defender-game-babel/issues"
+    "url": "https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-babel/issues"
   },
-  "homepage": "https://github.com/KoensBerg/defender-game-babel#readme",
+  "homepage": "https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-babel#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.15",
     "@babel/core": "^7.22.20",

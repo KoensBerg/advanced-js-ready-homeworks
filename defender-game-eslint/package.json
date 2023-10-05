@@ -1,5 +1,5 @@
 {
-  "name": "defender-game-babel",
+  "name": "defender-game-eslint",
   "version": "1.0.0",
   "description": "\"Browser based game\"",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KoensBerg/defender-game-babel.git"
+    "url": "git+https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-eslint.git"
   },
   "keywords": [
     "game"
@@ -18,9 +18,9 @@
   "author": "KoensBerg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KoensBerg/defender-game-babel/issues"
+    "url": "https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-eslint/issues"
   },
-  "homepage": "https://github.com/KoensBerg/defender-game-babel#readme",
+  "homepage": "https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game-eslint#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.15",
     "@babel/core": "^7.22.20",

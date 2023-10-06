@@ -12,4 +12,9 @@
 2. [Import/Export](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/import-export)
 3. [ESM](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/ESM)
 
+«**Платформы: браузер vs Node.js**»
+1. [репозиторий с пакетом ajs](https://github.com/KoensBerg/ajs)
+2. [репозиторий проекта с Node.js](https://github.com/KoensBerg/use-package-ajs-for-node)
+3. [JSBin](https://jsbin.com/racakaj/edit?html,console)
+
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

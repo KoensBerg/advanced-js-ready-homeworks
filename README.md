@@ -17,4 +17,8 @@
 2. [репозиторий проекта с Node.js](https://github.com/KoensBerg/use-package-ajs-for-node)
 3. [JSBin](https://jsbin.com/racakaj/edit?html,console)
 
+«**Тестирование и Continuous Integration**»
+1. [Чистые функции](https://github.com/KoensBerg/unit-testing-1__cleaning-function)
+2. [Matchers](https://github.com/KoensBerg/unit-testing-2__matchers)
+
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

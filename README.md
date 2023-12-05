@@ -1,6 +1,6 @@
 # Advansed JavaScript homeworks
 
-Репозиторий готовых ДЗ по модулю `«Продвинутый JS»`
+### Репозиторий готовых ДЗ по модулю `«Продвинутый JS»`
 
 «**Стандарты и Рабочее окружение**»
 1. [defender-game](https://github.com/KoensBerg/advanced-js-homeworks/tree/master/defender-game)
@@ -20,5 +20,9 @@
 «**Тестирование и Continuous Integration**»
 1. [Чистые функции](https://github.com/KoensBerg/unit-testing-1__cleaning-function)
 2. [Matchers](https://github.com/KoensBerg/unit-testing-2__matchers)
+
+«**Прототипы, конструкторы, классы и наследование**»
+1. [Классы, наследование](https://github.com/KoensBerg/ajs-oop-1)
+2. [Методы](https://github.com/KoensBerg/ajs-oop-2)
 
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

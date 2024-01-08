@@ -1,4 +1,4 @@
-# Advansed JavaScript homeworks
+# advansed JS homeworks
 
 ### Репозиторий готовых ДЗ по модулю `«Продвинутый JS»`
 
@@ -24,5 +24,9 @@
 «**Прототипы, конструкторы, классы и наследование**»
 1. [Классы, наследование](https://github.com/KoensBerg/ajs-oop-1)
 2. [Методы](https://github.com/KoensBerg/ajs-oop-2)
+
+«**Object, Reflection и Proxy**»
+1. [for-in](https://github.com/KoensBerg/ajs-advanced-1)
+2. [Destructuring](https://github.com/KoensBerg/ajs-advanced-2)
 
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

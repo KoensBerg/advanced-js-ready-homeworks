@@ -29,4 +29,8 @@
 1. [for-in](https://github.com/KoensBerg/ajs-advanced-1)
 2. [Destructuring](https://github.com/KoensBerg/ajs-advanced-2)
 
+«**Регулярные выражения**»
+1. [Никнеймы](https://github.com/KoensBerg/ajs-regex-1)
+2. [Телефоны (задача со звёздочкой)](https://github.com/KoensBerg/ajs-regex-2)
+
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)

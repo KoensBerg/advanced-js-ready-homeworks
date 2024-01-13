@@ -33,4 +33,8 @@
 1. [Никнеймы](https://github.com/KoensBerg/ajs-regex-1)
 2. [Телефоны (задача со звёздочкой)](https://github.com/KoensBerg/ajs-regex-2)
 
-Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8)
+«**Контейнеры**»
+1. [Set](https://github.com/KoensBerg/ajs-containers-1)
+2. [Map)](https://github.com/KoensBerg/ajs-containers-2)
+
+Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks-descriptions/tree/ajs8)

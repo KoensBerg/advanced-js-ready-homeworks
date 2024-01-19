@@ -35,6 +35,10 @@
 
 «**Контейнеры**»
 1. [Set](https://github.com/KoensBerg/ajs-containers-1)
-2. [Map)](https://github.com/KoensBerg/ajs-containers-2)
+2. [Map](https://github.com/KoensBerg/ajs-containers-2)
+
+«**ArrayBuffer**»
+1. Задача #1 – не выполнена
+2. [ArrayBuffer](https://github.com/KoensBerg/ajs-ArrayBuffer-2)
 
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks-descriptions/tree/ajs8)

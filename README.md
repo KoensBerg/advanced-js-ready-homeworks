@@ -41,4 +41,8 @@
 1. Задача #1 – не выполнена
 2. [ArrayBuffer](https://github.com/KoensBerg/ajs-ArrayBuffer-2)
 
+«**Promises, async/await**»
+1. [Promises](https://github.com/KoensBerg/ajs-Promises-1-Promises)
+2. [async/await](https://github.com/KoensBerg/ajs-Promises-2-async_await)
+
 Описание домашних заданий: [здесь](https://github.com/KoensBerg/ajs-homeworks-descriptions/tree/ajs8)
